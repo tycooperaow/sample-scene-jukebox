@@ -2,6 +2,8 @@
 
 This scene is based on a tutorial that [HardlyDifficult](https://github.com/hardlydifficult) created for us.
 
+It shows how to handle and animate buttons, as well as how to play sound files in a Decentraland scene.
+
 You can find a full tutorial including video and written content [here](https://steemit.com/tutorial/@hardlydifficult/decentraland-tutorial-creating-a-music-jukebox)
 
 

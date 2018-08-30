@@ -6,6 +6,7 @@ It shows how to handle and animate buttons, as well as how to play sound files i
 
 You can find a full tutorial including video and written content [here](https://steemit.com/tutorial/@hardlydifficult/decentraland-tutorial-creating-a-music-jukebox)
 
+[Explore the scene](https://dcl-project-nvahvjzeiz.now.sh/?position=42%2C42): this link takes you to a copy of the scene deployed to a remote server where you can interact with it. You can also achieve the same by following the steps below and running it locally.
 
 **Install the CLI**
 
